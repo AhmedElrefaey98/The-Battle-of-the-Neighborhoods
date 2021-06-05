@@ -1,1 +1,2 @@
-# Capstone-Project-
+#The-Battle-of-the-Neighborhoods
+THIS PROJECT WAS TO FIND THE BEST NEIGHBORHOOD FOR BUILDING A NEW CHINESE RESTAURANT taking in comsideration the number of chinese restaurants in each neighborhood with its location and it was a big problem for our investors so we used the machine learning to decide and we fed the algorithms with data from the official website of new york and the Foursquare company then we run the algorithms and it diveded the neighborhods int 7 clusters and we chose the best one which was Cluster 4
